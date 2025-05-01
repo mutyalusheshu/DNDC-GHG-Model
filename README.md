@@ -10,3 +10,8 @@ This project provides a simplified **R Shiny web application** that models key s
    ```bash
    git clone https://github.com/mutyalusheshu/DNDC-GHG-Model.git
    cd dndc-shiny-app
+
+Reference : 
+Giltrap et al. (2010), DNDC: A process-based model of greenhouse gas fluxes
+Li et al. (1992), Development of the DNDC model
+IPCC GHG accounting principles for agricultural systems
